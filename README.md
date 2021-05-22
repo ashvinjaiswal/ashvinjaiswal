@@ -1,7 +1,7 @@
 ### Hi, I am Ashvin Jaiswal👋
 
 
-- 🔭 I’m a Software Engineer Devloper, specializing in Web development. I 
+- 🔭 I’m a Software Engineer Devloper, specializing in Web development.
 - 👯 I'm looking to collaborate on International Companies.
 - ⚡ Fun fact: I enjoy working with Angular Eco system, React and Jasvascript Best Practices
 
