@@ -1,7 +1,10 @@
-### Hi there 👋
+### Hi, I am Ashvin Jaiswal👋
 
 
-[!Ashvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashvinjaiswal)](https://github.com/ashvinjaiswal/github-readme-stats)
+- 🔭 I’m a Software Engineer Devloper, specializing in Web development. I 
+- 👯 I'm looking to collaborate on International Companies.
+- ⚡ Fun fact: I enjoy working with Angular Eco system, React and Jasvascript Best Practices
+
 <!--
 **ashvinjaiswal/ashvinjaiswal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
