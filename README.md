@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+
+[!Ashvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashvinjaiswal)](https://github.com/ashvinjaiswal/github-readme-stats)
 <!--
 **ashvinjaiswal/ashvinjaiswal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
