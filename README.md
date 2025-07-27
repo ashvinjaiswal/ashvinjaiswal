@@ -3,7 +3,7 @@
 
 - 🔭 I’m a Software Engineer Devloper, specializing in Web development.
 - 👯 I'm looking to collaborate on International Companies.
-- ⚡ Fun fact: I enjoy working with Angular Eco system, React and Jasvascript Best Practices
+- ⚡ Fun fact: I enjoy working with Full stack development, AI 
 
 <!--
 **ashvinjaiswal/ashvinjaiswal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
